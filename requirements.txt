@@ -2,3 +2,5 @@ REQUIREMENTS
 
 Local font Installation required!
 ->[Gatchina](https://fontesk.com/gatchina-font/#google_vignette)
+
+//font allows redistribution and adaptation, font is made by author Dimitri Antonov / Blue Curve Designstudio//
